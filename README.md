@@ -67,9 +67,9 @@ stack-overflow-survey-2025-analysis/
 ├── assets/
 │ └── dashboard_screenshot.png
 │
-├── README.md
 ├── requirements.txt
 └── .gitignore
+README.md
 ```
 ---
 
